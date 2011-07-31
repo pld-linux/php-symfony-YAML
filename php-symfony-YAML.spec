@@ -3,12 +3,12 @@
 %define		pearname	YAML
 Summary:	%{pearname} - The Symfony YAML Component
 Name:		php-symfony-YAML
-Version:	1.0.5
+Version:	1.0.6
 Release:	1
 License:	MIT license
 Group:		Development/Languages/PHP
 Source0:	http://pear.symfony-project.com/get/%{pearname}-%{version}.tgz
-# Source0-md5:	32e1e125897a3ff0cd1dc2d548873ca0
+# Source0-md5:	9f010ddb236e1495ad3b9c42fbab9223
 URL:		http://pear.symfony-project.com/package/YAML/
 BuildRequires:	php-channel(pear.symfony-project.com)
 BuildRequires:	php-packagexml2cl
