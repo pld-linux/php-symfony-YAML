@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		status		stable
 %define		pearname	YAML
 Summary:	%{pearname} - The Symfony YAML Component
